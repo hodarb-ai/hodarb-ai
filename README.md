@@ -11,7 +11,7 @@ for the Dutch market.
 ---
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ![Claude API](https://img.shields.io/badge/Claude_API-FF6B35?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5A8FFF?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
