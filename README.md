@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Hoda 👋
 
 ## 🤖 AI Engineer in Training | Netherlands 🇳🇱
